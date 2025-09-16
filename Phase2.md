@@ -184,7 +184,6 @@ Currently, all changes are being developed and tested directly in the Developer 
 To ensure future scalability and maintainability, I planned a basic deployment strategy:
 
 - All metadata changes (custom objects, fields, profiles, roles, flows, layouts) will be tracked through **Change Sets** or **Salesforce CLI (sfdx)** if moved to another org
-- **Outbound Change Sets** can be used from this Developer org to move components into a sandbox or production org
 - I also enabled **Dev Hub** for version control with source-driven development if needed later
 
 This provides a basic deployment framework for when the project needs to be migrated from the current Developer org to a production environment.
