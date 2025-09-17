@@ -1,5 +1,10 @@
 # Phase 1: Problem Understanding & Industry Analysis
 
+## Problem Statement
+
+Small and mid-scale NGOs currently struggle to efficiently manage donations, donor relationships, and program impact reporting due to manual and fragmented processes. This results in errors, lack of transparency, donor drop-offs, and difficulties in demonstrating real-world impact. On the other hand, donors lack visibility into how their contributions are used and receive little personalized engagement, reducing trust and long-term retention.
+There is a need for a centralized, automated, and transparent donor management system that bridges the gap between NGOs and donors, streamlines operations, and builds long-term trust.
+
 ## 1. Requirement Gathering
 
 ### Pain Points (NGO side)
