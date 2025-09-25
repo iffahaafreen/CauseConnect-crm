@@ -134,6 +134,7 @@ The interface adapts to different user roles within the NGO.
 **Field Officer Experience:**
 - **Emphasis**: Beneficiary management, mobile optimization
 - **Home page**: Assignment lists, quick data entry actions
+!! Currently, demonstration is done via single account (Time constraints)
 
 ## Conclusion
 
